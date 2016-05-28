@@ -1,0 +1,30 @@
+Fonts used in this design;
+
+Font: Andada, 
+Author: Huerta Tipográfica, 
+Url: http://www.fontsquirrel.com/fonts/andada;
+
+Font: Acknowledgement, 
+Author: Reading Type, 
+Url: http://www.fontsquirrel.com/fonts/Acknowledgement;
+
+Font: POMPIERE, 
+Author: Sorkin Type Co, 
+Url: http://www.fontsquirrel.com/fonts/pompiere;
+
+Font: Bodonixt, 
+Author: Manfred Klein Fonteria, 
+Url: http://www.fontsquirrel.com/fonts/BodoniXT;
+
+Font: CAC Champagne, 
+Author: American Greetings Corporation, 
+Url: http://www.fontsquirrel.com/fonts/CAC-Champagne;
+
+
+Font: Aller, 
+Author: Dalton Maag Ltd, 
+Url: http://www.fontsquirrel.com/fonts/Aller;
+
+
+
+
