@@ -34,7 +34,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.061639"
-     inkscape:cx="528.51027"
+     inkscape:cx="512.02632"
      inkscape:cy="651.17361"
      inkscape:document-units="px"
      inkscape:current-layer="g5943"
@@ -53,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -71,7 +71,7 @@
            height="628.75311"
            x="89.250969"
            y="119.88937" /></flowRegion><flowPara
-         id="flowPara4707"></flowPara></flowRoot>    <flowRoot
+         id="flowPara4707" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4748"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
@@ -81,12 +81,12 @@
            height="484.88586"
            x="-27.974186"
            y="283.73816" /></flowRegion><flowPara
-         id="flowPara4754"></flowPara></flowRoot>    <g
+         id="flowPara4754" /></flowRoot>    <g
        id="g4777" />
     <g
        id="g5943">
       <g
-         id="g6202">
+         id="g3599">
         <path
            inkscape:connector-curvature="0"
            id="path734"
@@ -508,14 +508,6 @@
            cx="392.30466"
            id="path4756"
            style="fill:none;fill-opacity:1;stroke:none;stroke-opacity:1" />
-        <text
-           sodipodi:linespacing="125%"
-           id="text4758"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#748a6a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-           xml:space="preserve"><textPath
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Marker Felt';-inkscape-font-specification:'Marker Felt';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-opacity:1;fill:#748a6a;fill-opacity:1"
-             id="textPath4762"
-             xlink:href="#path4756">                                                        Confecciones Colombia</textPath></text>
         <g
            id="g4868"
            transform="matrix(1.744273,0,0,1.744273,-267.58445,-509.99898)">
@@ -693,7 +685,7 @@
         </g>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:33.75453568px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#748a6a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           style="font-style:normal;font-weight:normal;font-size:33.75453568px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#748a6a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="352.48419"
            y="704.23846"
            id="text5194"
@@ -702,7 +694,15 @@
              x="352.48419"
              y="704.23846"
              id="tspan5198"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.75453568px;line-height:125%;font-family:'Marker Felt';-inkscape-font-specification:'Marker Felt, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#748a6a;fill-opacity:1;">2016</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.75453568px;line-height:125%;font-family:'Marker Felt';-inkscape-font-specification:'Marker Felt, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#748a6a;fill-opacity:1">2016</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text4758"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#748a6a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><textPath
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Marker Felt';-inkscape-font-specification:'Marker Felt';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#748a6a;fill-opacity:1;stroke:none;stroke-opacity:1"
+             id="textPath4762"
+             xlink:href="#path4756">                                                        Confecciones Colombia</textPath></text>
       </g>
     </g>
   </g>
